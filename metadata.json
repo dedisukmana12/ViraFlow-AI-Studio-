@@ -1,0 +1,8 @@
+{
+  "name": "ViraFlow AI: Autonomous Content Engine",
+  "description": "A comprehensive AI-powered platform for scaling short-form video production. Generate viral hooks, scripts, cinematic visual prompts, professional voice-overs, and social metadata in one unified workflow.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
